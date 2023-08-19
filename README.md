@@ -2,6 +2,8 @@
 ---
 [__HOME__](https://kronedev22.github.io)
 
+[__About Me__](https://kronedev22.github.io/AboutMe/)
+
 ---
 
 ### **Bees 'n' Trees**
