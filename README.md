@@ -8,6 +8,8 @@
 
 ### **Bees 'n' Trees**
 
+{% include youtube.html id="dQw4w9WgXcQ" %}
+
 #### **About the game**
 
 #### **Initial goal**
