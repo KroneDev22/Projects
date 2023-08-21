@@ -6,7 +6,7 @@
 
 ---
 
-### **Bees 'n' Trees**
+## **Bees 'n' Trees**
 
 {% include youtube.html id="g-sgw9bPV4A" %}
 
@@ -18,7 +18,7 @@
 
 --- 
 
-### **Maid Mayhem**
+## **Maid Mayhem**
 
 #### **About the game**
 
@@ -28,12 +28,14 @@
 
 ---
 
-### **Project TPSAimingSystem**
+## **Project TPSAimingSystem**
 
 #### **About the game**
 
 #### **Initial goal**
 
 #### **What was learnt**
+
+#### **Future plans**
 
 ---
