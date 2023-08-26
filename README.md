@@ -88,6 +88,7 @@ Once that was achieved, it just kept going as I kept learning, starting with the
 - Simple player model using IK on the hands to hold the guns (allowing the guns to remain programmatically animated).
 - Simple enemies (in both AI and shape/ detail)
 - A console for the player to choose their own equipment
+
 Gameplay loop: Player is in a small "hub" type area with access to the console and a firing range.
 When ready to set out, the player may interact with an object which would then generate a level using an asset called "Advanced Dungeon Generator".
 Once generated, the door would open and the player would leave to fulfill an objective, and when the objective is complete, return to the hub and close the doors, unloading the generated area.
