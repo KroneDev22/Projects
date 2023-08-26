@@ -61,6 +61,7 @@ Each room having a different layout and being a little more challenging. Overall
 ---
 
 ## **Project TPSAimingSystem**
+(Solo)
 
 #### **About the game**
 - Basic WASD movement
