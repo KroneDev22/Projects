@@ -33,7 +33,7 @@ This initial goal of this game was just to get more experience in Unity, and see
 
 {% include youtube.html id="57M4mohm2Vs" %}
 
-[__Play_Game__](https://play.unity.com/mg/other/webgl-builds-360558)
+[__Play Game__](https://play.unity.com/mg/other/webgl-builds-360558)
 
 
 #### **About the game**
