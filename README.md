@@ -9,7 +9,7 @@
 ## **Bees 'n' Trees**
 (Solo)
 
-{% include youtube.html id="g-sgw9bPV4A" %}
+{% include youtube.html id="vw6tjmAxFS8" %}
 
 #### **About the game**
 - Controls with clicking on the bee and sliding your finger in the direction to move, then releasing to launch.
@@ -28,6 +28,8 @@ This initial goal of this game was just to get more experience in Unity, and see
 
 ## **Maid Mayhem**
 (Group - Role = Project lead/ Programmer)
+
+{% include youtube.html id="57M4mohm2Vs" %}
 
 #### **About the game**
 - Fast paced, high score, time trial.
@@ -60,8 +62,10 @@ Each room having a different layout and being a little more challenging. Overall
 
 ---
 
-## **Project TPSAimingSystem**
+## **Project TPS-AimingSystem**
 (Solo)
+
+{% include youtube.html id="oxscby7NH4c" %}
 
 #### **About the game**
 - Basic WASD movement
