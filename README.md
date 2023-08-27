@@ -11,6 +11,8 @@
 
 {% include youtube.html id="vw6tjmAxFS8" %}
 
+[__View Game - Itch.io__](https://kronedev.itch.io/beesntrees-slingy-bee)
+
 #### **About the game**
 - Controls with clicking on the bee and sliding your finger in the direction to move, then releasing to launch.
 - Points are gained through each unique gap passed through.
@@ -30,6 +32,9 @@ This initial goal of this game was just to get more experience in Unity, and see
 (Group - Role = Project lead/ Programmer)
 
 {% include youtube.html id="57M4mohm2Vs" %}
+
+[__Play_Game__](https://play.unity.com/mg/other/webgl-builds-360558)
+
 
 #### **About the game**
 - Fast paced, high score, time trial.
