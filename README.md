@@ -7,13 +7,14 @@
 ---
 
 ## **Bees 'n' Trees**
-(Solo)
+[Unity + Godot] (Solo) 
 
 {% include youtube.html id="vw6tjmAxFS8" %}
 
 [__View Game - Itch.io__](https://kronedev.itch.io/beesntrees-slingy-bee)
 
 #### **About the game**
+- Made with Unity as my first game, and recently remade in Godot.
 - Controls with clicking on the bee and sliding your finger in the direction to move, then releasing to launch.
 - Points are gained through each unique gap passed through.
 - Game play ends when the player touches the spikey vines at the top or bottom of the screen.
@@ -29,7 +30,7 @@ This initial goal of this game was just to get more experience in Unity, and see
 --- 
 
 ## **Maid Mayhem**
-(Group - Role = Project lead/ Programmer)
+[Unity] (Group - Role = Project lead/ Programmer) 
 
 {% include youtube.html id="57M4mohm2Vs" %}
 
@@ -37,6 +38,7 @@ This initial goal of this game was just to get more experience in Unity, and see
 
 
 #### **About the game**
+- Made in Unity, as part of assessment.
 - Fast paced, high score, time trial.
 - Two different types of minigames (messes), with 3 difficulty variants each.
 - Player has access to one tool per mess type (Broom = piles, mop = spills)
@@ -68,7 +70,7 @@ Each room having a different layout and being a little more challenging. Overall
 ---
 
 ## **Project TPS-AimingSystem**
-(Solo)
+[Unity] (Solo) 
 
 {% include youtube.html id="oxscby7NH4c" %}
 
@@ -82,6 +84,9 @@ Each room having a different layout and being a little more challenging. Overall
 - Generic health script used for taking damage
 - "Manouvems" - A system similar to that of stratagems from HELLDIVERS
 - Each "manouvem" is a scriptable object
+- The player can hold CTRL, and press 1 - 4 to quickly input a set code (such as CTRL+1, to input, WWA), to allow players quicker access to either frequently used manouvems, or their favourites
+- A console allowing the player to equip different guns during runtime
+- The same console, allowing players to set their manouvem quick access codes
 
 #### **Initial goal**
 This project started off as simply making an aiming system similar to that in RE4. 
@@ -94,10 +99,10 @@ Once that was achieved, it just kept going as I kept learning, starting with the
 - Coroutines
 - Rigidbody.SweepTestAll() and Rigidbody.SphereCastAll()
 
-#### **Future plans**
+#### **Plans that could have been**
 - Simple player model using IK on the hands to hold the guns (allowing the guns to remain programmatically animated).
 - Simple enemies (in both AI and shape/ detail)
-- A console for the player to choose their own equipment
+- A console for the player to choose their own equipment (Implemented)
 
 Gameplay loop: Player is in a small "hub" type area with access to the console and a firing range.
 When ready to set out, the player may interact with an object which would then generate a level using an asset called "Advanced Dungeon Generator".
