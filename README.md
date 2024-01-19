@@ -91,6 +91,16 @@ Each room having a different layout and being a little more challenging. Overall
 - Each card has a number of other cards it can interact with, which can be used to achieve more powerful results
 - Upon the game ending, view stats to see how well you did
 
+**My contributions (programming):**
+- Player movement
+- Card/ ability function and interactions (10 cards, 12 interactions)
+- Enemy AI
+- UI animations
+- All VFX
+- Assisted with wave spawning
+- Assisted with stat saving (for end of round)
+- Assisted with slot upgrade system
+
 #### **Initial goal**
 This game was developed with the main thought of making a card game, that doesn't feel like other card games (faster pacing, while keeping the strategy aspects).
 
