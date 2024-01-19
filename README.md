@@ -100,6 +100,8 @@ This game was developed with the main thought of making a card game, that doesn'
 - More experience with GitHub branches
 - When to use third party resources to speed up development (Mixamo was used for animation, third party sounds were used)
 - How nice it is to have daily communication
+- VFX Graph
+- Shader Graph
 
 ---
 
